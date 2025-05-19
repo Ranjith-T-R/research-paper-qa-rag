@@ -24,8 +24,8 @@ A Streamlit‑powered Retrieval‑Augmented Generation (RAG) assistant that lets
 
 1. **Clone this repo**  
    ```bash
-   git clone https://github.com/<your‑username>/ai-research-assistant-rag.git
-   cd ai-research-assistant-rag
+   git clone https://github.com/Ranjith-T-R/research-paper-qa-rag.git
+   cd research-paper-qa-rag
 2. **Create & activate a virtual environment (recommended)**
     ```bash
    python3 -m venv .venv
